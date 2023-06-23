@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    background-image: url(imagens/Imagens/fundo.png);
+}
+.linha1{background-color:  rgb(0, 0, 0);
+    height: 4px;
+margin-top: 1px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px rgba(250, 59, 193, 0.925);
+}
+
+.dupla{
+    display: flex;
+    margin-left: 20px;
+}
+
+.s1{
+    margin-left: 1px;
+    margin-top: -1px;
+    border: 1px solid black;
+    border-radius: 120px 120px 0px 0px ;
+    width: 18vw;
+    height: 80vh;
+    background-image: linear-gradient(to top, rgba(61, 64, 233, 0.514), rgba(152, 214, 255, 0.521));
+    }
+
+.classe1{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.s2{
+    margin-left: 1px;
+    margin-top: -1px;
+    border: 1px solid black;
+    border-radius: 120px 120px 0px 0px ;
+    width: 18vw;
+    height: 80vh;
+    background-image: linear-gradient(to top, rgba(122, 10, 187, 0.521), rgba(219, 139, 235, 0.445));      
+}
+
+.classe2{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.s3{
+    margin-left: 1px;
+    margin-top: -1px;
+    border: 1px solid black;
+    border-radius: 120px 120px 0px 0px ;
+    width: 18vw;
+    height: 80vh;
+    background-image: linear-gradient(to top, rgba(255, 0, 123, 0.507), rgba(243, 165, 195, 0.363));
+
+}
+
+.classe3{
+    display: flex;
+    justify-content: center ;
+    align-items: center;display: flex;
+    justify-content: center ;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    
+}
+
+.manequim{
+    margin-left: 10px;
+    margin-top: -1px;
+    width: 380px;
+}
+
+.linha{
+    background-color:  black;
+    height: 5px;
+margin-top: 1px;
+}
+
+.seleção{
+
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px rgba(90, 160, 224, 0.651);
+}
+.coração{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.coração2{
+    width: 50vw;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+
+}
+
+.camera{
+    width: 80px;
+}
+
+.gatinho{
+    width: 90px;
+}
+
+.imagem-coracao{
+    width:100px;
+    margin: 0;
+}
+
+.sessao1{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+}
+.bblusa{
+    width: 245px;
+}
+.vcblusa{
+    width: 235px;
+}
+.pblusa{
+    width: 235px;
+
+}
+.acropped{
+    width: 185px;
+}
+.croppedp{
+    width: 220px;
+}
+
+
+
+.linha2{
+    background-color:  black;
+    height: 5px;
+margin-top: 1px;
+}
+
+.sessao2{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+.pcasaco{
+width: 230px;
+}
+.bcasaco{
+    width: 290px;
+}
+.ccasaco{
+    width: 280px;
+}
+.pmoletom{
+    width: 230px;
+}
+
+.seleção2{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px rgba(214, 114, 235, 0.637);
+}
+.sessao3{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+.mcalças{
+    width: 330px;
+}
+
+.calçasp{
+    width: 340px;
+}
+
+.calçaj{
+    width: 290px;
+}
+
+.sessao4{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.pbsaia{
+    width: 245px;
+}
+.bsaia{
+    width: 260px;
+}
+
+.psaia{
+    width: 270px;
+}
+
+.msaia{
+    width: 230px;
+}
+
+.linha3{
+    background-color:  black;
+    height: 5px;
+    margin-top: 1px;
+}
+
+.seleção3{text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px rgba(240, 100, 186, 0.637);
+}
+
+.sessao5{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.coturno{
+    width: 200px;
+}
+
+.salto{
+    width: 200px;
+}
+
+.allstar{
+    width: 200px;
+}
+
+.nike{
+    width: 200px;
+}
+
+.bota{
+    width: 200px;
+}
+
+.linha4{
+    background-color:  black;
+    height: 5px;
+    margin-top: 1px;
+}
+
+.perfil{
+    margin-left: 1px;
+    margin-top: -1px;
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px ;
+    width: 300vw;
+    height: 20vh;
+    background-image: linear-gradient(to top, rgba(122, 10, 187, 0.521), rgba(219, 139, 235, 0.445)); 
+}
